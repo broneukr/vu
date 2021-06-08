@@ -8,7 +8,8 @@
   "scripts": {
     "dev": "flareact dev",
     "build": "flareact build",
-    "deploy": "flareact publish"
+    "deploy": "flareact publish",
+     "bu": "flareact build && flareact publish"
   },
   "dependencies": {
     "firebase": "^8.2.8",
