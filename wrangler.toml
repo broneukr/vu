@@ -1,9 +1,7 @@
-name = "with-firebase"
+name = "fire"
 type = "webpack"
-account_id = ""
+account_id = "9326ea8155c740226674552c41ac809c"
 workers_dev = true
-route = ""
-zone_id = ""
 webpack_config = "node_modules/flareact/webpack"
 
 [site]
